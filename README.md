@@ -62,7 +62,9 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 * **MATHEUS LEONARDO CORREA NASCIMENTO **
 * ** LUCAS PEREIRA ALVES **
 * **  MURILO ROCHA DOS SANTOS  **
-* ** PEDRO HENRIQUE DO AMARAL MENDES ** 
+* ** PEDRO HENRIQUE DO AMARAL MENDES **
+
+  
 Agradecimentos a todos que contribuíram para este projeto.
 
 ## 📝 Licença
