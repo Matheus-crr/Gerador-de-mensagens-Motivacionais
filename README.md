@@ -69,7 +69,12 @@ Agradecimentos a todos que contribuíram para este projeto.
 
 Referencias:
 https://www.pensador.com/frases_para_preservar_o_meio_ambiente/
+
 https://www.revistaea.org/artigo.php?idartigo=1764
+
+https://ecoaliza.com.br/meio-ambiente/150-frases-impactantes-sobre-sustentabilidade-e-meio-ambiente/
+
+https://www.istockphoto.com/br/fotos/preserva%C3%A7%C3%A3o-ambiental
 
 
 ## 📝 Licença
