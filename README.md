@@ -44,7 +44,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 ## 🛠️ Tecnologias Utilizadas
 
 * **Backend:** Python
-* **Frontend:** HTML5, CSS3, JavaScript
+* **Frontend:** HTML5, CSS3, PYTHON
 * **(Opcional) Framework:** Flask
 
 ## 🤝 Como Contribuir
