@@ -67,6 +67,11 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
   
 Agradecimentos a todos que contribuíram para este projeto.
 
+Referencias:
+https://www.pensador.com/frases_para_preservar_o_meio_ambiente/
+https://www.revistaea.org/artigo.php?idartigo=1764
+
+
 ## 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
